@@ -1,0 +1,33 @@
+Vivado Simulator 2016.2
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2016.2/bin/unwrapped/win64.o/xelab.exe -wto 3bdf58446f5d4d499d75a6d9584ccaec --debug typical --relax --mt 2 -L xil_defaultlib -L dist_mem_gen_v8_0_10 -L unisims_ver -L unimacro_ver -L secureip --snapshot docpu_top_tb_behav xil_defaultlib.docpu_top_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-278] actual bit length 1 differs from formal bit length 4 for port ram_ce_o [D:/Ray/Vivado/DoCPU_89/DoCPU_89.srcs/sources_1/new/docpu_top.v:44]
+WARNING: [VRFC 10-278] actual bit length 4 differs from formal bit length 1 for port mem_ce_o [D:/Ray/Vivado/DoCPU_89/DoCPU_89.srcs/sources_1/new/docpu.v:511]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.pc_reg
+Compiling module xil_defaultlib.if_id
+Compiling module xil_defaultlib.id
+Compiling module xil_defaultlib.regfile
+Compiling module xil_defaultlib.id_ex
+Compiling module xil_defaultlib.ex
+Compiling module xil_defaultlib.ex_mem
+Compiling module xil_defaultlib.mem
+Compiling module xil_defaultlib.mem_wb
+Compiling module xil_defaultlib.hilo_reg
+Compiling module xil_defaultlib.ctrl
+Compiling module xil_defaultlib.div
+Compiling module xil_defaultlib.LLbit_reg
+Compiling module xil_defaultlib.cp0_reg
+Compiling module xil_defaultlib.docpu
+Compiling module dist_mem_gen_v8_0_10.dist_mem_gen_v8_0_10(C_FAMILY="a...
+Compiling module xil_defaultlib.imem
+Compiling module xil_defaultlib.dmem
+Compiling module xil_defaultlib.docpu_top
+Compiling module xil_defaultlib.docpu_top_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot docpu_top_tb_behav

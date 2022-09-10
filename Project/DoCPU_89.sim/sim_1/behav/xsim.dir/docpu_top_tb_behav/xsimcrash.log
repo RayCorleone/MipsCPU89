@@ -1,0 +1,47 @@
+Unable to capture context for thread 8088 in process 18960, can not generate back trace
+Unable to capture context for thread 13744 in process 18960, can not generate back trace
+Unable to capture context for thread 13880 in process 18960, can not generate back trace
+Unable to capture context for thread 15448 in process 18960, can not generate back trace
+Unable to capture context for thread 16772 in process 18960, can not generate back trace
+Unable to capture context for thread 384 in process 18960, can not generate back trace
+Unable to capture context for thread 9648 in process 18960, can not generate back trace
+Exception at PC 0x00007FF96C22BB93
+Printing stacktrace...
+
+Unable to capture context for thread 13744 in process 18960, can not generate back trace
+Unable to capture context for thread 13880 in process 18960, can not generate back trace
+Unable to capture context for thread 16772 in process 18960, can not generate back trace
+Unable to capture context for thread 9648 in process 18960, can not generate back trace
+Exception at PC 0x00007FFA06434F69
+Exception at PC 0x00007FFA06434F69
+Exception at PC 0x00007FFA06434F69
+Exception at PC 0x00007FFA06434F69
+Exception at PC 0x00007FFA06434F69
+Exception at PC 0x00007FFA06434F69
+Exception at PC 0x00007FFA06434F69
+Exception at PC 0x00007FFA06434F69
+Exception at PC 0x00007FFA06434F69
+Exception at PC 0x00007FFA06434F69
+Exception at PC 0x00007FFA06434F69
+[0]  [0x00007FF96C22BB93]
+[1]  [0x00007FF96C22BB93]
+[2]  [0x00007FF96C22B4A1]
+[3]  [0x00007FF96C22B459]
+[4]  [0x00007FF96C2119FE]
+[5]  [0x00007FF96C210ED1]
+[6]  [0x00007FF96C210D76]
+[7]  [0x00007FF96C1B79F6]
+[8]  [0x00007FF96C1A7AFB]
+[9]  [0x00007FF96C2CE90A]
+[10]  [0x00007FF96C2E9F87]
+[11]  [0x00007FF96C2EA05F]
+[12] (BaseThreadInitThunk+0x14) [0x00007FFA08257034]
+[13] (RtlUserThreadStart+0x21) [0x00007FFA08D02651]
+Done
+Exception at PC 0x00007FFA06434F69
+Exception at PC 0x00007FFA06434F69
+Exception at PC 0x00007FFA06434F69
+Exception at PC 0x00007FFA06434F69
+Exception at PC 0x00007FFA06434F69
+Exception at PC 0x00007FFA06434F69
+Exception at PC 0x00007FFA06434F69
